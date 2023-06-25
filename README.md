@@ -1,3 +1,3 @@
 # odin-project
 
-This is my second try 
+following the odin project
